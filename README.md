@@ -23,7 +23,7 @@ options:
   -?, --help      print this message
 ```
 
-### Split Example
+### Merge Example
 For example, the following folder has `--input ./input/directory` and `--number 5`
 ```
 ./input/directory/
